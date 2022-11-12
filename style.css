@@ -3,9 +3,9 @@ body {
   font-size: 16px;
   margin: 0 auto;   /* center content */
   max-width: 800px; /* limit width */
-  line-height: 1.5;
-  padding-top: 32px;
-  padding-bottom: 32px;
+  line-height: 2;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 p{
